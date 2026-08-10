@@ -1,328 +1,576 @@
-<!-- ========================================================= -->
+Act as a Senior GitHub Profile Designer, Senior Software Engineer, Developer Advocate, Technical Recruiter, UI/UX Designer, and Personal Branding Expert.
 
-<!--                 AYUSH KUMAR SINGH                         -->
+I have attached a screenshot of a GitHub profile README that I like.
 
-<!--              GitHub Profile README.md                     -->
+IMPORTANT:
+Use the attached screenshot ONLY as a visual/design reference.
 
-<!-- ========================================================= -->
+Do NOT copy the person's name, text, avatar, username, project information, links, or exact content.
 
-<div align="center">
+Instead, recreate the same LEVEL OF VISUAL QUALITY and overall GitHub-profile experience for MY profile.
 
-<!-- ===================== HERO ====================== -->
+My GitHub username:
+ayuc11
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0F172A,100:1E293B&text=AYUSH%20KUMAR%20SINGH&fontSize=44&fontColor=F8FAFC&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Explorer&descAlignY=60&descSize=17" width="100%"/>
+My name:
+Ayush Kumar Singh
 
-<br>
+Education:
+B.Tech Information Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&height=55&lines=Building+with+code.;Solving+problems+with+C%2B%2B.;Exploring+AI+%7C+ML+%7C+GenAI+%7C+LLMs.;Building+Full-Stack+Applications.;Exploring+Linux+%26+Backend+Systems." />
+Current Year:
+3rd Year
 
-<br><br>
+Primary Focus:
+Data Structures & Algorithms with C++
 
-<a href="https://github.com/ayuc11">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
- 
-<a href="https://github.com/ayuc11">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>   <a href="[ayushsinghtrp@gmail.com](mailto:ayushsinghtrp@gmail.com)<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
- 
-<a 
+Interests:
+Software Engineering
+Artificial Intelligence
+Machine Learning
+Generative AI
+LLMs
+Backend Development
+Full-Stack Development
+Linux
+Open Source
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ayuc11&label=PROFILE%20VIEWS&color=1E293B&style=flat-square"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Ayush Kumar Singh**, a **3rd-year B.Tech Information Technology student** focused on building strong foundations in **software engineering, problem solving, and modern application development**.
-
-My core focus is **Data Structures & Algorithms with C++**, while I explore **Artificial Intelligence, Machine Learning, Generative AI, LLMs, Backend Development, Full-Stack Development, and Linux**.
-
-I learn by building — turning concepts into projects, solving technical problems, experimenting with technologies, and continuously improving how I design and write software.
-
-> **Curiosity → Learning → Building → Problem Solving → Growth**
-
----
-
-## ⚡ Quick Profile
-
-|                         |                                  |
-| :---------------------- | :------------------------------- |
-| 🎓 **Education**        | B.Tech — Information Technology  |
-| 📍 **Year**             | 3rd Year                         |
-| 💻 **Primary Language** | C++                              |
-| 🧠 **Core Focus**       | DSA & Software Development       |
-| 🤖 **AI Interests**     | AI / ML · GenAI · LLMs           |
-| 🌐 **Development**      | Backend · Full-Stack · REST APIs |
-| 🐧 **Systems**          | Linux · Ubuntu                   |
-| 🛠️ **Tools**           | Git · GitHub · VS Code           |
-| 🎯 **Career Goal**      | Software Engineer                |
-
----
-
-# 🧰 Tech Stack
-
-### Languages
-
-<p align="left">
-<img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=60A5FA"/>
-</p>
-
-### Frontend
-
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=60A5FA"/>
-</p>
-
-### Backend & APIs
-
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge&logo=fastapi&logoColor=60A5FA"/>
-</p>
-
-### AI / Machine Learning
-
-<p align="left">
-<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=60A5FA"/>
-</p>
-
-### Tools & Systems
-
-<p align="left">
-<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Ubuntu-0F172A?style=for-the-badge&logo=ubuntu&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA"/>
-</p>
-
----
-
-# 🧠 Core Competencies
-
-<div align="center">
-
-| 🧩 **Problem Solving** |   ⚙️ **Development**   | 🤖 **AI & Systems** |
-| :--------------------: | :--------------------: | :-----------------: |
-|     Data Structures    |   Backend Development  |   Machine Learning  |
-|       Algorithms       |        REST APIs       |    Generative AI    |
-|           C++          | Full-Stack Development |   LLM Fundamentals  |
-|           OOP          |      Git & GitHub      |  Linux Fundamentals |
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🌦️ AI-Integrated Weather Application
-
-A modern weather application combining **real-time weather data with an interactive interface and AI-assisted insights**.
-
-### What it does
-
-* 🌤️ Real-time weather information
-* 📅 Multi-day weather overview
-* 🤖 AI-assisted weather insights
-* 🔎 City search and suggestions
-* 📱 Responsive user interface
-* 🌦️ Dynamic weather conditions and icons
-* 🔌 API-based weather data integration
-
-### Technology
-
-`HTML` `CSS` `JavaScript` `Tailwind CSS` `Weather API` `AI`
-
-<a href="YOUR_WEATHER_GITHUB_URL">
-<img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
- 
-<a href="YOUR_WEATHER_LIVE_URL">
-<img src="https://img.shields.io/badge/Live%20Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
-## 🧠 AI / Full-Stack Project
-
-> **Add your next strongest project here.**
-
-**Problem**
-
-`Describe the real-world problem in 1–2 sentences.`
-
-**Solution**
-
-`Explain what you built and how it solves the problem.`
-
-**Key Features**
-
-* Important functionality
-* Backend/API integration
-* AI/ML capability
-* Important technical implementation
-
-**Technology**
-
-`Python` `JavaScript` `React` `Node.js` `AI/ML`
-
-<a href="YOUR_PROJECT_URL">
-<img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
- 
-<a href="YOUR_LIVE_URL">
-<img src="https://img.shields.io/badge/Live%20Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayuc11&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=CBD5E1&icon_color=60A5FA&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuc11&layout=compact&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=CBD5E1&langs_count=6" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayuc11&hide_border=true&background=0F172A&ring=60A5FA&fire=60A5FA&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=64748B" width="72%"/>
-
-</div>
-
----
-
-# 📈 DSA & Problem Solving
-
-My primary problem-solving focus is **Data Structures & Algorithms using C++**.
-
-```text
+Technologies I work/explore with:
 C++
-│
-├── Data Structures
-│   ├── Arrays
-│   ├── Linked Lists
-│   ├── Stacks & Queues
-│   ├── Trees
-│   └── Graphs
-│
-├── Algorithms
-│   ├── Searching
-│   ├── Sorting
-│   ├── Recursion
-│   ├── Dynamic Programming
-│   └── Graph Algorithms
-│
-└── Problem Solving
-    └── LeetCode / Competitive Programming
-```
+Python
+JavaScript
+HTML
+CSS
+React
+Node.js
+Git
+GitHub
+Linux
+Ubuntu
+Machine Learning
+Generative AI
 
-### Coding Profiles
+Career Goal:
+Become a strong software engineer who can build practical, scalable, and intelligent applications.
 
-<a href="https://leetcode.com/u/aayushh_singh_/">
-<img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=60A5FA"/>
-</a>
- 
+====================================================
+                    DESIGN GOAL
+====================================================
 
----
+Create a GitHub Profile README that feels like:
 
-# 🧩 Currently Learning
+PREMIUM
+MODERN
+DARK
+FUTURISTIC
+AESTHETIC
+PERSONAL
+RECRUITER-FRIENDLY
+DEVELOPER-FOCUSED
 
-<div align="center">
+The profile should look similar in QUALITY and visual density to the attached screenshot.
 
-```text
-01  →  Advanced Data Structures & Algorithms
-02  →  Backend Development & REST APIs
-03  →  Linux & System Fundamentals
-04  →  Machine Learning
-05  →  Generative AI
-06  →  Large Language Models
-07  →  Full-Stack Development
-```
+It should NOT look like a generic AI-generated GitHub README.
 
-</div>
+The final result should make someone think:
 
-I'm focused on understanding **fundamentals first**, then applying them through practical projects.
+"This developer has actually put effort into his personal developer brand."
 
----
+====================================================
+                 IMPORTANT VISUAL STYLE
+====================================================
 
-# 🌱 Open Source
+Use:
 
-I'm interested in becoming an active contributor to the open-source ecosystem.
+• Dark GitHub-friendly theme
+• Purple / violet / blue futuristic accents
+• Custom wide profile banner
+• Animated typing effect
+• Clean badges
+• Small visual animations
+• GIF/illustration area where appropriate
+• Profile statistics
+• Developer-style typography
+• Strong spacing
+• Clean section separators
+• Center-aligned hero
+• Compact sections
+• Professional but slightly creative personality
 
-Currently exploring:
+Do NOT use excessive emojis.
 
-`Open Source` · `Developer Tools` · `AI/ML` · `Software Development`
+Do NOT make every section animated.
 
-My goal is to learn from real-world codebases, collaborate with developers, and eventually contribute meaningful improvements to projects.
+Animation should feel intentional.
 
----
+====================================================
+                    HERO SECTION
+====================================================
 
-# 🎯 Current Goals
+Create a visually impressive top section similar in impact to the attached screenshot.
 
-<div align="center">
+Structure:
 
-|    #   | Goal                                           |
-| :----: | :--------------------------------------------- |
-| **01** | Strengthen DSA & problem-solving               |
-| **02** | Build production-quality projects              |
-| **03** | Improve backend engineering                    |
-| **04** | Deepen AI/ML fundamentals                      |
-| **05** | Explore GenAI & LLMs                           |
-| **06** | Contribute to open source                      |
-| **07** | Prepare for software engineering opportunities |
+1. Full-width custom banner
+2. My name
+3. Professional tagline
+4. Animated typing text
+5. Social/contact badges
+6. Profile views
+7. Optional small animated developer illustration
 
-</div>
+The banner should be visually similar to a modern developer portfolio.
 
----
+Use:
 
-# 🤝 Connect With Me
+Capsule Render
 
-<div align="center">
+or another reliable GitHub-compatible banner solution.
 
-<a href="https://github.com/ayuc11">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
- 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
- 
-<a href="mailto:[YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
- 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+Use a futuristic purple/blue gradient.
 
-</div>
+Example:
 
----
+AYUSH KUMAR SINGH
 
-<div align="center">
+Software Developer • AI/ML Explorer • Problem Solver
 
-### `Learn → Build → Solve → Improve`
+Animated typing lines:
 
-<br>
+"Building with C++"
+"Solving Data Structures & Algorithms"
+"Exploring AI & Machine Learning"
+"Building Full-Stack Applications"
+"Exploring Generative AI & LLMs"
+"Learning Linux & Backend Systems"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E293B,50:0F172A,100:020617" width="100%"/>
+Use readme-typing-svg.
 
-</div>
+Typing animation must be smooth and slow.
+
+====================================================
+                  VISUAL PERSONALITY
+====================================================
+
+The attached screenshot has a strong visual personality.
+
+Recreate this concept for me.
+
+Include a tasteful developer-themed animated GIF or illustration on the right side of an introduction section.
+
+IMPORTANT:
+
+Do NOT use a random cartoon.
+
+Choose a visual that fits:
+
+• Software engineering
+• Coding
+• AI
+• Developer culture
+• Technology
+
+The visual should complement the README instead of dominating it.
+
+If a reliable external GIF is unavailable, create a clean placeholder section rather than using a broken image.
+
+====================================================
+                    ABOUT ME
+====================================================
+
+Create a short, strong introduction.
+
+Do NOT write a generic:
+
+"Hi, I am passionate about coding."
+
+Instead write something like:
+
+"I'm Ayush Kumar Singh, a 3rd-year B.Tech Information Technology student focused on strengthening my software engineering fundamentals through C++ and Data Structures & Algorithms while exploring AI/ML, Generative AI, backend development, full-stack technologies, and Linux."
+
+Keep it concise.
+
+The recruiter should understand my profile in less than 10 seconds.
+
+====================================================
+                  QUICK IDENTITY
+====================================================
+
+Create a visually attractive compact section showing:
+
+🎓 B.Tech Information Technology
+💻 C++ / DSA
+🤖 AI / ML / GenAI / LLMs
+🌐 Backend / Full-Stack
+🐧 Linux
+🛠️ Git / GitHub
+🚀 Software Engineering
+
+Use a clean table or two-column layout.
+
+====================================================
+                    TECH STACK
+====================================================
+
+Create organized technology badges.
+
+Categories:
+
+LANGUAGES
+C++
+Python
+JavaScript
+
+FRONTEND
+HTML
+CSS
+React
+
+BACKEND
+Node.js
+Express.js
+REST APIs
+
+AI / ML
+Machine Learning
+NumPy
+Pandas
+Generative AI
+LLMs
+
+TOOLS
+Git
+GitHub
+VS Code
+
+SYSTEMS
+Linux
+Ubuntu
+Windows
+
+Use Shields.io.
+
+Use a consistent badge style.
+
+Do not create a giant wall of badges.
+
+====================================================
+                  DSA SECTION
+====================================================
+
+DSA is an important part of my profile.
+
+Create a dedicated section:
+
+"DSA & Problem Solving"
+
+Include:
+
+C++
+Data Structures
+Algorithms
+Recursion
+Searching
+Sorting
+Trees
+Graphs
+Dynamic Programming
+Problem Solving
+
+Add LeetCode only if a real profile URL is provided.
+
+Do NOT invent ranking or problem counts.
+
+====================================================
+                  PROJECT SECTION
+====================================================
+
+Projects should be one of the most visually important sections.
+
+Create attractive project cards using Markdown/HTML.
+
+For every project show:
+
+PROJECT NAME
+
+Short one-line description
+
+TECH STACK
+
+Key Features
+
+GitHub button
+Live Demo button
+
+Use a clean two-column/card-like presentation if GitHub Markdown supports it safely.
+
+My existing project:
+
+AI-Integrated Weather Application
+
+Description:
+
+A modern weather application combining real-time weather information with interactive UI and AI-assisted insights.
+
+Features:
+
+• Real-time weather information
+• Multi-day weather overview
+• AI weather insights
+• City search/suggestions
+• Responsive interface
+• Dynamic weather icons
+• API integration
+
+Tech:
+
+HTML
+CSS
+JavaScript
+Tailwind CSS
+Weather API
+AI
+
+Do NOT invent additional project metrics.
+
+Leave clean placeholders for additional projects.
+
+====================================================
+                 GITHUB ANALYTICS
+====================================================
+
+Create a visually balanced GitHub statistics section.
+
+Use:
+
+github-readme-stats
+
+for:
+
+• GitHub Stats
+• Top Languages
+
+Use:
+
+streak-stats
+
+for:
+
+• GitHub Streak
+
+Username:
+
+ayuc11
+
+Use the same purple/blue/dark visual theme.
+
+Do NOT overfill the page with analytics.
+
+Maximum:
+
+2 main cards side-by-side
+1 streak card
+
+====================================================
+              CURRENTLY LEARNING
+====================================================
+
+Create a visual roadmap-style section:
+
+01 → Advanced DSA
+02 → Backend Development
+03 → Linux & Systems
+04 → Machine Learning
+05 → Generative AI
+06 → LLMs
+07 → Full-Stack Development
+
+Make this visually interesting.
+
+====================================================
+                 OPEN SOURCE
+====================================================
+
+Create a short section showing that I am interested in:
+
+Open Source
+Developer Communities
+Collaborative Development
+Real-world Codebases
+Developer Tools
+
+Do NOT claim existing contributions unless provided.
+
+====================================================
+                 CURRENT GOALS
+====================================================
+
+Create a clean roadmap:
+
+01 → Strengthen DSA
+02 → Build production-quality projects
+03 → Improve backend engineering
+04 → Deepen AI/ML fundamentals
+05 → Explore GenAI & LLMs
+06 → Contribute to Open Source
+07 → Prepare for Software Engineering opportunities
+
+====================================================
+                  SOCIAL SECTION
+====================================================
+
+Create professional social badges:
+
+GitHub
+LinkedIn
+Email
+Portfolio
+LeetCode
+
+ONLY use links that I provide.
+
+Do NOT invent URLs.
+
+====================================================
+                  ANIMATION RULES
+====================================================
+
+Use approximately 4–6 visual/animated elements.
+
+Recommended:
+
+1. Animated hero banner
+2. Typing SVG
+3. Small developer GIF/illustration
+4. GitHub statistics
+5. GitHub streak
+6. Animated footer
+
+Do NOT animate every section.
+
+The README should still look good if an external animation fails to load.
+
+====================================================
+                   FOOTER
+====================================================
+
+Create a premium animated footer.
+
+Use a subtle Capsule Render wave.
+
+Include:
+
+"Learn → Build → Solve → Improve"
+
+Do not use cringe motivational quotes.
+
+====================================================
+                 RECRUITER OPTIMIZATION
+====================================================
+
+Design the README so that a recruiter can quickly find:
+
+WHO I AM
+WHAT I KNOW
+WHAT I BUILD
+WHAT I'M LEARNING
+MY GITHUB ACTIVITY
+MY DSA FOCUS
+HOW TO CONTACT ME
+
+The most important sections should visually stand out:
+
+1. Hero
+2. About Me
+3. Tech Stack
+4. Projects
+5. GitHub Analytics
+6. DSA
+7. Contact
+
+====================================================
+                  AUTHENTICITY RULE
+====================================================
+
+NEVER invent:
+
+• Experience
+• Certifications
+• Achievements
+• GitHub statistics
+• LeetCode ranking
+• Project metrics
+• Job titles
+• Company names
+• Open-source contributions
+
+If information is missing, use a clearly marked placeholder.
+
+====================================================
+                    CODE QUALITY
+====================================================
+
+Return a COMPLETE README.md.
+
+It must be:
+
+• Copy-paste ready
+• Valid Markdown
+• GitHub compatible
+• Valid HTML where used
+• Properly centered
+• Properly spaced
+• No broken Markdown
+• No unnecessary code
+• No broken image URLs
+• No fake links
+
+Use comments to separate major sections.
+
+====================================================
+                 MOST IMPORTANT
+====================================================
+
+The attached screenshot is the VISUAL REFERENCE.
+
+I want the same type of:
+
+• visual impact
+• banner presence
+• compact professional layout
+• developer personality
+• animation quality
+• profile density
+• colorful accent treatment
+• custom branding
+
+BUT make the final README uniquely mine.
+
+Do NOT simply reproduce the screenshot.
+
+Think:
+
+"Premium GitHub developer portfolio inspired by the reference."
+
+NOT:
+
+"Copy of the reference README."
+
+====================================================
+                    FINAL OUTPUT
+====================================================
+
+Return:
+
+1. COMPLETE README.md
+2. List of placeholders I need to replace
+3. 5 recommendations to make my GitHub profile even more recruiter-friendly
+
+Do not give me a generic template.
+
+Make the final README feel like a carefully designed personal developer portfolio belonging to:
+
+AYUSH KUMAR SINGH
+GitHub: ayuc11
+B.Tech IT Student
+Software Development + DSA + AI/ML + GenAI
