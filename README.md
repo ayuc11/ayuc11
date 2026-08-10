@@ -1,89 +1,40 @@
-<!-- ========================================================= -->
-<!--                    PROFILE BANNER                         -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1d4ed8,100:0891b2&height=220&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Builder%20%E2%80%A2%20Learner%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=17&animation=fadeIn"
-    width="100%"
-    alt="Ayush Kumar Singh Banner"
-  />
-</p>
-
-<!-- ========================================================= -->
-<!--                     TYPING ANIMATION                      -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Software+Developer+in+Progress+%F0%9F%9A%80;B.Tech+Information+Technology+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Generative+AI+%26+LLM+Explorer+%F0%9F%A7%A0;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Building+%E2%80%A2+Learning+%E2%80%A2+Improving+%E2%80%A2+Every+Day"
-    alt="Typing Animation"
-  />
-</p>
-
-<!-- ========================================================= -->
-<!--                       TAGLINE                             -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <b>💻 B.Tech IT Student • Software Developer in Progress • AI/ML Enthusiast • Builder</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" />
 
 <br>
-
-<!-- ========================================================= -->
-<!--                    SOCIAL BUTTONS                         -->
-<!-- ========================================================= -->
-
-<p align="center">
 
 <a href="https://github.com/ayuc11">
-  <img src="https://img.shields.io/badge/GITHUB-AYUC11-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+projects.;Exploring+AI+%7C+ML+%7C+GenAI+%7C+LLMs;Learning+Full-Stack+Development;Solving+problems+with+code." />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-AYUSH%20KUMAR%20SINGH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br><br>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ayuc11&label=Profile%20Views&color=334155&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ayuc11?label=Followers&style=flat-square&color=334155" />
 </p>
 
-<br>
+</div>
 
-<!-- ========================================================= -->
-<!--                     SEPARATOR                             -->
-<!-- ========================================================= -->
-
-<p align="center">
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
-<!-- ========================================================= -->
+---
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Ayush Kumar Singh**, a **B.Tech Information Technology student** passionate about software development, artificial intelligence, and modern technologies.
+Hi, I'm **Ayush Kumar Singh**, a **B.Tech Information Technology student** exploring the intersection of **software engineering, artificial intelligence, and modern web technologies**.
 
-I'm currently working on building a strong foundation in **software engineering, full-stack development, AI/ML, Generative AI, LLMs, and Data Structures & Algorithms**.
+I enjoy turning ideas into working projects, experimenting with new technologies, solving problems, and continuously improving my development skills.
 
-I enjoy turning ideas into projects, learning new technologies, solving problems, and continuously improving my development skills.
+### ✦ What I'm Exploring
 
 ```text
-🎓  B.Tech Information Technology Student
-
-💻  Software Developer in Progress
-
-🤖  Exploring Artificial Intelligence & Machine Learning
-
-🧠  Exploring Generative AI & LLMs
-
-🌐  Learning Full-Stack Development
-
-🧩  Practicing Data Structures & Algorithms
-
-🚀  Building Projects • Learning • Improving
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  ▸ Software Engineering & Development               │
+│  ▸ Full-Stack Web Development                       │
+│  ▸ Artificial Intelligence & Machine Learning       │
+│  ▸ Generative AI & Large Language Models            │
+│  ▸ Data Structures & Algorithms                     │
+│  ▸ Modern Developer Tools & Technologies            │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
