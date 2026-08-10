@@ -1,40 +1,61 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Aman!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+IT+Undergraduate;Data+Structures+%26+Algorithms+Enthusiast;Exploring+Backend,+Linux,+%26+AI%2FML;C%2B%2B+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=AYUSH%20KUMAR%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" />
+## 👨‍💻 About Me
 
-<br>
+Welcome to my digital workspace! I am a second-year B.Tech Information Technology student focused on building a strong foundation in software engineering and modern infrastructure. I enjoy tackling complex logic puzzles and am constantly expanding my technical toolkit.
 
-<a href="https://github.com/ayuc11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+projects.;Exploring+AI+%7C+ML+%7C+GenAI+%7C+LLMs;Learning+Full-Stack+Development;Solving+problems+with+code." />
-</a>
+- 🧠 **Currently learning:** Deep diving into **Data Structures and Algorithms** using **C++**.
+- 🔭 **Exploring:** The intricacies of the **Linux** ecosystem, **Backend Development**, and foundational **AI/ML** concepts.
+- 🎯 **Goals:** To write clean, optimized code and build scalable backend architectures.
+- ⚡ **Fun fact:** When I'm not writing code or analyzing algorithms, you can find me brainstorming content ideas or editing videos.
 
-<br><br>
+---
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ayuc11&label=Profile%20Views&color=334155&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ayuc11?label=Followers&style=flat-square&color=334155" />
-</p>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  
+  ### Languages
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  
+  ### Operating Systems & Environments
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  
+  ### Tools & Workflows
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📊 GitHub Analytics
 
-Hi, I'm **Ayush Kumar Singh**, a **B.Tech Information Technology student** exploring the intersection of **software engineering, artificial intelligence, and modern web technologies**.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-I enjoy turning ideas into working projects, experimenting with new technologies, solving problems, and continuously improving my development skills.
+*(Note: Replace `YOUR_GITHUB_USERNAME` in the image links above with your actual GitHub username to activate the stats cards!)*
 
-### ✦ What I'm Exploring
+---
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  ▸ Software Engineering & Development               │
-│  ▸ Full-Stack Web Development                       │
-│  ▸ Artificial Intelligence & Machine Learning       │
-│  ▸ Generative AI & Large Language Models            │
-│  ▸ Data Structures & Algorithms                     │
-│  ▸ Modern Developer Tools & Technologies            │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
