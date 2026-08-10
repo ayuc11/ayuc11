@@ -8,35 +8,25 @@
 
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- ===================== HERO ====================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0F172A,100:1E293B&text=AYUSH%20KUMAR%20SINGH&fontSize=44&fontColor=F8FAFC&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Explorer&descAlignY=60&descSize=17" width="100%"/>
 
 <br>
 
-<!-- TYPING ANIMATION -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&height=55&lines=Building+with+code.;Solving+problems+with+C%2B%2B.;Exploring+AI+%7C+ML+%7C+GenAI+%7C+LLMs.;Building+full-stack+applications.;Exploring+Linux+%26+backend+systems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&height=55&lines=Building+with+code.;Solving+problems+with+C%2B%2B.;Exploring+AI+%7C+ML+%7C+GenAI+%7C+LLMs.;Building+Full-Stack+Applications.;Exploring+Linux+%26+Backend+Systems." />
 
 <br><br>
-
-<!-- PROFILE LINKS -->
 
 <a href="https://github.com/ayuc11">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ 
+<a href="https://github.com/ayuc11">
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>   <a href="[ayushsinghtrp@gmail.com](mailto:ayushsinghtrp@gmail.com)<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+ 
+<a 
 
 <br><br>
 
@@ -52,15 +42,13 @@ I'm **Ayush Kumar Singh**, a **3rd-year B.Tech Information Technology student** 
 
 My core focus is **Data Structures & Algorithms with C++**, while I explore **Artificial Intelligence, Machine Learning, Generative AI, LLMs, Backend Development, Full-Stack Development, and Linux**.
 
-I learn by building — taking concepts beyond tutorials, turning them into projects, solving technical problems, and continuously improving how I write and understand software.
+I learn by building — turning concepts into projects, solving technical problems, experimenting with technologies, and continuously improving how I design and write software.
 
 > **Curiosity → Learning → Building → Problem Solving → Growth**
 
 ---
 
 ## ⚡ Quick Profile
-
-<div align="center">
 
 |                         |                                  |
 | :---------------------- | :------------------------------- |
@@ -74,15 +62,13 @@ I learn by building — taking concepts beyond tutorials, turning them into proj
 | 🛠️ **Tools**           | Git · GitHub · VS Code           |
 | 🎯 **Career Goal**      | Software Engineer                |
 
-</div>
-
 ---
 
 # 🧰 Tech Stack
 
 ### Languages
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=60A5FA"/>
@@ -90,7 +76,7 @@ I learn by building — taking concepts beyond tutorials, turning them into proj
 
 ### Frontend
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=60A5FA"/>
@@ -98,15 +84,15 @@ I learn by building — taking concepts beyond tutorials, turning them into proj
 
 ### Backend & APIs
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge&logo=fastapi&logoColor=60A5FA"/>
 </p>
 
 ### AI / Machine Learning
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=60A5FA"/>
@@ -115,7 +101,7 @@ I learn by building — taking concepts beyond tutorials, turning them into proj
 
 ### Tools & Systems
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=60A5FA"/>
@@ -142,66 +128,64 @@ I learn by building — taking concepts beyond tutorials, turning them into proj
 
 # 🚀 Featured Projects
 
-> I believe projects are the strongest evidence of engineering ability.
+## 🌦️ AI-Integrated Weather Application
 
-### 🌦️ AI-Integrated Weather Application
+A modern weather application combining **real-time weather data with an interactive interface and AI-assisted insights**.
 
-A modern weather application designed to provide weather information through an interactive interface with additional AI-assisted insights.
+### What it does
 
-**Focus**
+* 🌤️ Real-time weather information
+* 📅 Multi-day weather overview
+* 🤖 AI-assisted weather insights
+* 🔎 City search and suggestions
+* 📱 Responsive user interface
+* 🌦️ Dynamic weather conditions and icons
+* 🔌 API-based weather data integration
 
-* Real-time weather information
-* Interactive weather interface
-* AI-assisted weather insights
-* Responsive frontend experience
-* API-based data integration
-
-**Tech**
+### Technology
 
 `HTML` `CSS` `JavaScript` `Tailwind CSS` `Weather API` `AI`
 
-<p>
-<a href="YOUR_WEATHER_PROJECT_URL">
+<a href="YOUR_WEATHER_GITHUB_URL">
 <img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+ 
 <a href="YOUR_WEATHER_LIVE_URL">
 <img src="https://img.shields.io/badge/Live%20Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
 ---
 
-### 🧠 AI / Full-Stack Project
+## 🧠 AI / Full-Stack Project
+
+> **Add your next strongest project here.**
 
 **Problem**
 
-`Describe the real-world problem your project solves.`
+`Describe the real-world problem in 1–2 sentences.`
 
 **Solution**
 
-`Briefly explain what you built and how it solves the problem.`
+`Explain what you built and how it solves the problem.`
 
 **Key Features**
 
-* `Feature / functionality`
-* `Backend or API integration`
-* `AI / ML capability`
-* `Important technical implementation`
+* Important functionality
+* Backend/API integration
+* AI/ML capability
+* Important technical implementation
 
-**Tech**
+**Technology**
 
 `Python` `JavaScript` `React` `Node.js` `AI/ML`
 
-<p>
 <a href="YOUR_PROJECT_URL">
 <img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+ 
 <a href="YOUR_LIVE_URL">
 <img src="https://img.shields.io/badge/Live%20Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
 ---
 
@@ -209,7 +193,7 @@ A modern weather application designed to provide weather information through an 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayuc11&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=CBD5E1&icon_color=60A5FA&ring_color=60A5FA&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayuc11&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=CBD5E1&icon_color=60A5FA&rank_icon=github" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuc11&layout=compact&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=CBD5E1&langs_count=6" height="180"/>
 
@@ -231,36 +215,31 @@ My primary problem-solving focus is **Data Structures & Algorithms using C++**.
 
 ```text
 C++
- │
- ├── Data Structures
- │    ├── Arrays
- │    ├── Linked Lists
- │    ├── Stacks & Queues
- │    ├── Trees
- │    └── Graphs
- │
- ├── Algorithms
- │    ├── Searching
- │    ├── Sorting
- │    ├── Recursion
- │    ├── Dynamic Programming
- │    └── Graph Algorithms
- │
- └── Problem Solving
-      └── LeetCode / Competitive Programming
+│
+├── Data Structures
+│   ├── Arrays
+│   ├── Linked Lists
+│   ├── Stacks & Queues
+│   ├── Trees
+│   └── Graphs
+│
+├── Algorithms
+│   ├── Searching
+│   ├── Sorting
+│   ├── Recursion
+│   ├── Dynamic Programming
+│   └── Graph Algorithms
+│
+└── Problem Solving
+    └── LeetCode / Competitive Programming
 ```
 
 ### Coding Profiles
 
-<p>
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/aayushh_singh_/">
 <img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=60A5FA"/>
 </a>
-&nbsp;
-<a href="YOUR_CODEFORCES_URL">
-<img src="https://img.shields.io/badge/Codeforces-0F172A?style=for-the-badge&logo=codeforces&logoColor=60A5FA"/>
-</a>
-</p>
+ 
 
 ---
 
@@ -321,15 +300,15 @@ My goal is to learn from real-world codebases, collaborate with developers, and 
 <a href="https://github.com/ayuc11">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+ 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
+ 
+<a href="mailto:[YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)">
 <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+ 
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
